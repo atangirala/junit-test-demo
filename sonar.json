@@ -1,0 +1,4 @@
+{  
+    "sonarHost": "http://3.16.47.109:9000",
+    "sonarProjectKey": "junittest"
+}
